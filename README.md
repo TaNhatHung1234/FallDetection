@@ -131,17 +131,3 @@ Dự án đang ở giai đoạn phát triển. Bạn có thể thêm license sau
 ---
 
 **Author**: [TaNhatHung1234](https://github.com/TaNhatHung1234)
-```
-
----
-
-### Gợi ý thêm (nếu muốn):
-
-Bạn muốn tôi chỉnh README theo hướng nào không?
-
-1. **Tiếng Việt hoàn toàn**
-2. **Song ngữ Việt – Anh**
-3. Thêm phần giải thích chi tiết thuật toán phát hiện ngã (kể cả khi chưa code xong)
-4. Thêm badge (stars, Python version, Docker...)
-
-Chỉ cần nói mình sẽ chỉnh lại ngay.
