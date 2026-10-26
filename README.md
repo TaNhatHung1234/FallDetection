@@ -126,8 +126,7 @@ Mọi đóng góp đều được chào đón! Hãy tạo Issue hoặc Pull Requ
 
 ## 📄 License
 
-Dự án đang ở giai đoạn phát triển. Bạn có thể thêm license sau (MIT khuyến nghị).
-
+Dự án đang ở giai đoạn phát triển.
 ---
 
 **Author**: [TaNhatHung1234](https://github.com/TaNhatHung1234)
